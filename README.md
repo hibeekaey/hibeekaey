@@ -6,6 +6,8 @@ I work in the financial technology industry, managing teams and developing onlin
 
 I have experience consuming and writing RESTful API services and use Postgres, MongoDB and MySQL. I have sufficient Unit and E2E testing experience with Mocha and Jest. I also have experience with Git, Docker, Containers, Kubernetes, AWS, GCP, GitHub Actions and GitLab CI/CD.
 
+![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hibeekaey)
+
 <!--
 **hibeekaey/hibeekaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
