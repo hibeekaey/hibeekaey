@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer with web/mobile application development experience and high JavaScript skills and the most common frameworks such as Angular, React and VueJS and its NodeJS runtime. I've taken up Flutter and Dart lately and do some Bash, PHP and Python scripting as well.
-
-I work in the financial technology industry, managing teams and developing online and mobile apps to facilitate and simplify the lending process for small/large-scale lenders and leading microfinance banks in Nigeria and the USA.
-
-I have experience consuming and writing RESTful API services and use Postgres, MongoDB and MySQL. I have sufficient Unit and E2E testing experience with Mocha and Jest. I also have experience with Git, Docker, Containers, Kubernetes, AWS, GCP, GitHub Actions and GitLab CI/CD.
+I have over 6 years of Software Engineering experience and work with React, Vue, Node, Typescript, Python, and Flutter, as well as Postgres and Mongo databases. I carry out unit and end-to-end testing with Mocha and Jest. Likewise, I've put up infrastructure on GCP and AWS utilizing Kubernetes, Docker Containers, and Lambdas to execute highly scalable API microservices deployed using a CI/CD pipeline. Furthermore, I've worked with Fintech companies in Nigeria, the United States, and Brazil.
 
 ![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hibeekaey)
 
