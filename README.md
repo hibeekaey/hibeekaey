@@ -6,6 +6,11 @@ In addition, I have experience deploying highly scalable API microservices using
 
 My experience working with Fintech companies in Nigeria, the United States, and Brazil has given me a thorough understanding of the issues that arise in this space, and I am dedicated to delivering solutions that meet the highest security, reliability, and compliance standards.
 
+### Blog posts
+
+- [Exploring the Benefits of Infrastructure as Code in the Cloud — Part 1](https://blog.cuesoft.io/exploring-the-benefits-of-infrastructure-as-code-in-the-cloud-part-1-1bc03b358e15)
+- [Overcoming the Myths (Fears) of Starting a New Venture](https://blog.cuesoft.io/overcoming-the-myths-of-starting-a-new-venture-f2a80a17ab86)
+
 <!--
 **hibeekaey/hibeekaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
