@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I am a seasoned Software Engineer with over a decade of experience developing robust, scalable, and dependable applications. My experience includes working with a variety of technologies such as React, Vue, Go, Node, Typescript, Python, and Flutter, as well as databases such as Postgres and MongoDB. I have extensive experience using Mocha and Jest to implement unit and end-to-end testing, ensuring high-quality code and reducing the likelihood of bugs and errors.
-
-In addition, I have experience deploying highly scalable API microservices using Kubernetes, Docker Containers, and Lambdas on cloud platforms such as GCP and AWS. I've also worked with CI/CD pipelines to ensure that code is delivered to production in a timely and efficient manner.
-
-My experience working with Fintech companies in Nigeria, the United States, and Brazil has given me a thorough understanding of the issues that arise in this space, and I am dedicated to delivering solutions that meet the highest security, reliability, and compliance standards.
+I'm a seasoned software engineer with a proven track record of building reliable applications using a blend of frontend (React, Vue, TypeScript), backend (Go, Node, Python), databases (PostgreSQL, MongoDB), and cloud technologies (Kubernetes, Docker, Lambdas, GCP, AWS).  My commitment to thorough testing (Mocha, Jest) and CI/CD practices ensures the delivery of high-quality code.  Furthermore, my experience in the Fintech sector (Nigeria, US, Brazil) provides me with valuable insights into the unique security and compliance challenges of the financial industry.
 
 ### Blog posts
 
