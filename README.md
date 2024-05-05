@@ -4,6 +4,7 @@ I'm a seasoned software engineer with a proven track record of building reliable
 
 ### Blog posts
 
+- [Automate Your GitHub Setup: Managing Your Account with Infrastructure as Code](https://blog.ibukundairo.com/automate-your-github-setup-managing-your-account-with-infrastructure-as-code-ee0c08f0a601)
 - [Exploring the Benefits of Infrastructure as Code in the Cloud — Part 1](https://blog.cuesoft.io/exploring-the-benefits-of-infrastructure-as-code-in-the-cloud-part-1-1bc03b358e15)
 - [Overcoming the Myths (Fears) of Starting a New Venture](https://blog.cuesoft.io/overcoming-the-myths-of-starting-a-new-venture-f2a80a17ab86)
 
