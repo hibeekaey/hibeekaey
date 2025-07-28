@@ -30,9 +30,9 @@ I'm passionate about **mentoring engineers**, building **reliable platforms**, a
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hibeekaey&show_icons=true&theme=radical)  
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hibeekaey&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibeekaey&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hibeekaey&show_icons=true&theme=radical)
+<!--![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hibeekaey&theme=radical)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibeekaey&layout=compact&theme=radical)
 
 ---
 
