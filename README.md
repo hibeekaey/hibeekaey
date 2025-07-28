@@ -1,12 +1,35 @@
 ### Hi there 👋
 
-I'm a seasoned software engineer with a proven track record of building reliable applications using a blend of frontend (React, Vue, TypeScript), backend (Go, Node, Python), databases (PostgreSQL, MongoDB), and cloud technologies (Kubernetes, Docker, Lambdas, GCP, AWS).  My commitment to thorough testing (Mocha, Jest) and CI/CD practices ensures the delivery of high-quality code.  Furthermore, my experience in the Fintech sector (Nigeria, US, Brazil) provides me with valuable insights into the unique security and compliance challenges of the financial industry.
+I'm **Ibukun Dairo**, a seasoned **Platform Engineer and DevOps Leader** with 10+ years of experience building **cloud-native infrastructure**, developer tooling, and resilient applications across **Fintech**, **Streaming**, and **SaaS** ecosystems in **Nigeria, the US, and Brazil**.
 
-### Blog posts
+I specialize in:
+- ✨ **Platform Engineering & Developer Experience**  
+- ⚡️ **Infrastructure as Code** (Terraform, Helm, ArgoCD)
+- ✅ **CI/CD & GitOps** (GitHub Actions, GitLab CI, CircleCI)
+- ⚖️ **Observability** (OpenTelemetry, Datadog, Prometheus)
+- 🚀 **Cloud & Containers** (Kubernetes, AWS, GCP, Docker)
+- ⚙️ **Languages & Stacks**: Go, Python, TypeScript, Node.js, React
 
+My leadership work at **Paramount (PlutoTV)**, **Traive Finance**, and **Cuesoft** has driven:
+- ↓ 35% reduction in P1 incidents via full-stack observability
+- ↑ 40% faster recovery time (MTTR) through SLO-based alerting
+- ↑ 50% CI/CD adoption with reusable pipelines and deployment tooling
+- ↓ 90% infra downtime reduction from scaling DevOps maturity
+
+I'm passionate about **mentoring engineers**, building **reliable platforms**, and promoting **open-source contributions** to improve software delivery across teams and orgs.
+
+### 📚 Blog posts
 - [Automate Your GitHub Setup: Managing Your Account with Infrastructure as Code](https://blog.ibukundairo.com/automate-your-github-setup-managing-your-account-with-infrastructure-as-code-ee0c08f0a601)
 - [Exploring the Benefits of Infrastructure as Code in the Cloud — Part 1](https://blog.cuesoft.io/exploring-the-benefits-of-infrastructure-as-code-in-the-cloud-part-1-1bc03b358e15)
 - [Overcoming the Myths (Fears) of Starting a New Venture](https://blog.cuesoft.io/overcoming-the-myths-of-starting-a-new-venture-f2a80a17ab86)
+
+> “Great infrastructure enables great software. I build both.”
+
+### 📉 Connect
+- 📱 [LinkedIn](https://linkedin.com/in/ibukundairo)
+- 🎧 [Podcast: The Hibeekaey Show](https://youtube.com/@hibeekaey)
+- 🌐 [Portfolio](https://ibukundairo.com)
+- ✉️ [Email](mailto:ibukun.o.dairo@gmail.com)
 
 <!--
 **hibeekaey/hibeekaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
