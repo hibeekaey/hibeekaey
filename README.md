@@ -4,11 +4,11 @@
 
 ---
 
-I'm a Computer Scientist focused on software engineering at the intersection of distributed systems and reliability.
+I'm a computer scientist with a background in software engineering, focused on the intersection of distributed systems and infrastructure reliability. Over the last decade, I've built and scaled systems across global organizations — from observability platforms at PlutoTV (Paramount Skydance), to multi-tenant cloud infrastructure at Traive, and AI-native talent pipelines at Cuesoft.
 
 ---
 
-I'm passionate about **mentoring engineers**, building **reliable platforms**, and promoting **open-source contributions** to improve software delivery across teams and orgs.
+I'm passionate about bridging the gap between academic research and real-world engineering, mentoring the next generation of engineers, and building systems and organizations that create lasting impact.
 
 ---
 
