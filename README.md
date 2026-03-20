@@ -4,7 +4,7 @@
 
 ---
 
-I'm **Ibukun Dairo**, a seasoned **Platform Engineer and DevOps Leader** with 11+ years of experience building **cloud-native infrastructure**, developer tooling, and resilient applications across **Fintech**, **Streaming**, and **SaaS** ecosystems in **Nigeria, the US, and Brazil**.
+I'm a Computer Scientist focused on software engineering at the intersection of distributed systems and reliability.
 
 ---
 
