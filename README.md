@@ -30,8 +30,10 @@ questions:
   installer, Homebrew tap, releases with signed provenance.
 - [OneUptime](https://github.com/OneUptime/oneuptime): core contributor,
   2019 to 2021. Real-time alerting infrastructure and monitoring probes.
-- [open-source-project-generator](https://github.com/cuesoftinc/open-source-project-generator):
-  maintainer. Production-grade open-source project scaffolds.
+- [oss-engineering-standards](https://github.com/cuesoftinc/oss-engineering-standards):
+  maintainer. The engineering standard the CueLABS portfolio is built to:
+  the catalog, shared templates and a dependency-free manifest CLI that
+  coding agents use to bootstrap and standardize repos.
 - [cuesoftinc](https://github.com/cuesoftinc): steward of the open-source
   products Cuesoft's intern cohorts ship in public, under one engineering
   standard.
