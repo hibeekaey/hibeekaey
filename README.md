@@ -1,8 +1,8 @@
 # I build platforms that hold.
 
-Right now: platform engineering at Pluto TV (Paramount Skydance), one
+Platform engineering at Pluto TV (Paramount Skydance), one
 telemetry standard across 70+ microservices; PhD research in AI-driven
-infrastructure reliability at the University of North Dakota, from August
+infrastructure reliability at the University of North Dakota, since August
 2026; and building [Cuesoft](https://cuesoft.io), the AI company that builds
 its own engineers.
 
