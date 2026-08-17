@@ -15,8 +15,8 @@ and the research formalizes what production keeps teaching.
 - **Founder.** [Cuesoft](https://cuesoft.io) trains AI-native engineers
   ([CueTA™](https://cueta.cuesoft.io), since 2024), proves them in the
   open ([CueLABS™](https://cuelabs.cuesoft.io), since 2023) and delivers
-  them to companies ([CueHIRE™](https://cuehire.cuesoft.io)). One
-  flywheel, three divisions.
+  them to companies ([CueHIRE™](https://cuehire.cuesoft.io), since
+  2025). One flywheel, three divisions.
 - **Industry.** One telemetry standard across 70+ microservices at Pluto TV:
   critical incidents down 35%, mean time to recovery down 40%. Before that,
   founding SRE at Traive, from pre-seed onward.
