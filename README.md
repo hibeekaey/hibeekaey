@@ -1,65 +1,40 @@
 # I build platforms that hold.
 
-Nigerian computer scientist and principal engineer, working at the
-intersection of distributed systems and infrastructure reliability. Platform
-engineering at Pluto TV (Paramount Skydance): one telemetry standard across
-70+ microservices, critical incidents down 35%, mean time to recovery down
-40%. Before that, founding SRE at Traive from pre-seed onward, and two years
-building OneUptime. I also run [Cuesoft](https://cuesoft.io), the AI company
-that builds its own engineers.
+Right now: platform engineering at Pluto TV (Paramount Skydance), one
+telemetry standard across 70+ microservices; PhD research in AI-driven
+infrastructure reliability at the University of North Dakota, from August
+2026; and building [Cuesoft](https://cuesoft.io), the AI company that builds
+its own engineers.
 
-### The research
-
-Observability tools alone do not prevent failures: even with mature
-dashboards, monitors and SLOs, teams still react to incidents instead of
-avoiding them. From August 2026 I am researching AI-driven methods for
-infrastructure reliability at the University of North Dakota, asking three
-questions:
-
-- Can multi-modal observability, logs, metrics and traces read together,
-  predict faults accurately under real production workloads?
-- Can SLO-aware learning prevent incidents hours before impact, not minutes?
-- Can explainable predictions earn an operator's trust in the middle of a
-  high-stress incident?
-
-### Built in the open
+### Building now
 
 - [agent-sync](https://github.com/hibeekaey/agent-sync): one memory, every
-  agent. A single-file POSIX sh CLI that keeps 17 AI coding agents reading
-  one synthesized memory file. Zero dependencies, checksum-verified
-  installer, Homebrew tap, releases with signed provenance.
-- [OneUptime](https://github.com/OneUptime/oneuptime): core contributor,
-  2019 to 2021. Real-time alerting infrastructure and monitoring probes.
+  agent. A single-file POSIX sh CLI keeping 17 AI coding agents on one
+  synthesized memory file. Launched August 2026.
 - [oss-engineering-standards](https://github.com/cuesoftinc/oss-engineering-standards):
-  maintainer. The engineering standard the CueLABS portfolio is built to:
-  the catalog, shared templates and a dependency-free manifest CLI that
-  coding agents use to bootstrap and standardize repos.
-- [cuesoftinc](https://github.com/cuesoftinc): steward of the open-source
-  products Cuesoft's intern cohorts ship in public, under one engineering
-  standard.
+  the engineering standard the CueLABS portfolio is built to.
+- [Cueprise](https://cueprise.cuesoft.io): a licensing-based commerce engine
+  for African businesses.
 
-### The daily drivers
+### The research question
 
-Kubernetes, Terraform, ArgoCD, OpenTelemetry, Datadog, Prometheus, PagerDuty,
-AWS, Google Cloud, Go, TypeScript, Node.js, Python, Bash, PostgreSQL, Redis,
-MongoDB, Kafka.
+Observability tools alone do not prevent failures. Can logs, metrics and
+traces, read together, predict faults early enough, and explainably enough,
+to act on?
 
-### Writing and talking
+### Daily drivers
 
-- I host [The CueShow™](https://cueshow.cuesoft.io): engineers and
-  builders on the record about how the work actually gets done.
-- [DevOps learning path: a comprehensive end-to-end workflow roadmap](https://x.com/ibukun_o_dairo/status/2028163406260273463?s=20)
-- [Automate your GitHub setup: managing your account with infrastructure as code](https://blog.ibukundairo.com/automate-your-github-setup-managing-your-account-with-infrastructure-as-code-ee0c08f0a601)
-- [Exploring the benefits of infrastructure as code in the cloud](https://blog.cuesoft.io/exploring-the-benefits-of-infrastructure-as-code-in-the-cloud-part-1-1bc03b358e15)
-- [Overcoming the myths of starting a new venture](https://blog.cuesoft.io/overcoming-the-myths-of-starting-a-new-venture-f2a80a17ab86)
-- More on [Medium](https://medium.com/@ibukundairo).
+Kubernetes, Terraform, OpenTelemetry, Datadog, AWS, Google Cloud, Go,
+TypeScript, Python, PostgreSQL, Redis, Kafka.
+
+### Elsewhere
+
+- [The CueShow™](https://cueshow.cuesoft.io): I host the Cuesoft podcast.
+- [Medium](https://medium.com/@ibukundairo): notes from the work.
+- [ibukundairo.com](https://ibukundairo.com): the full record, dated and
+  checkable.
+- [LinkedIn](https://linkedin.com/in/ibukundairo) |
+  [X](https://x.com/ibukun_o_dairo) |
+  [hello@ibukundairo.com](mailto:hello@ibukundairo.com)
 
 > "Building relationships is key to building great software."
-
-### Connect
-
-- [ibukundairo.com](https://ibukundairo.com), the full record: dated and
-  checkable
-- [LinkedIn](https://linkedin.com/in/ibukundairo)
-- [X](https://x.com/ibukun_o_dairo)
-- [hello@ibukundairo.com](mailto:hello@ibukundairo.com)
