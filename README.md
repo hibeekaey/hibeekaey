@@ -1,6 +1,6 @@
 # I build platforms that hold.
 
-Platform engineering at Pluto TV (Paramount Skydance), one
+Platform engineering at Paramount Skydance (Pluto TV), one
 telemetry standard across 70+ microservices; PhD research in AI-driven
 infrastructure reliability at the University of North Dakota, since August
 2026; and building [Cuesoft](https://cuesoft.io), the AI company that builds
@@ -13,8 +13,9 @@ its own engineers.
   synthesized memory file. Launched August 2026.
 - [oss-engineering-standards](https://github.com/cuesoftinc/oss-engineering-standards):
   the engineering standard the CueLABS portfolio is built to.
-- [Cueprise](https://cueprise.cuesoft.io): a licensing-based commerce engine
-  for African businesses.
+- [Cueprise](https://cueprise.cuesoft.io): a business management system for
+  accounting, inventory, sales, customers and staff, licensed per business and
+  deployed on each client's own cloud.
 
 ### The research question
 
