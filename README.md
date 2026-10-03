@@ -1,10 +1,10 @@
 # I build platforms that hold.
 
-Right now: platform engineering at Paramount Skydance (Pluto TV), one
+Platform engineering at Paramount Skydance (Pluto TV), one
 telemetry standard across 70+ microservices; PhD research in AI-driven
-infrastructure reliability at the University of North Dakota, under way since
-August 2026; and building [Cuesoft](https://cuesoft.io), the AI company that
-builds its own engineers, where I co-founded CueTA, the talent academy.
+infrastructure reliability at the University of North Dakota, since August
+2026; and building [Cuesoft](https://cuesoft.io), the AI company that builds
+its own engineers.
 
 ### Building now
 
